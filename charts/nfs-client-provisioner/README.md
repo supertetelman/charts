@@ -1,6 +1,7 @@
 # ⚠️ Repo Archive Notice
 
-As of Nov 13, 2020, charts in this repo will no longer be updated.
+As of Nov 13, 2020, charts in this the official `helm/stable` repo had support dropped.
+
 For more information, see the Helm Charts [Deprecation and Archive Notice](https://github.com/helm/charts#%EF%B8%8F-deprecation-and-archive-notice), and [Update](https://helm.sh/blog/charts-repo-deprecation/).
 
 This backup is from the following historical commit: https://github.com/helm/charts/commit/2d56bb33a31a997d88b0e08ba735627842d332cc.
@@ -8,10 +9,6 @@ This backup is from the following historical commit: https://github.com/helm/cha
 # nfs-client-provisioner
 
 The [NFS client provisioner](https://github.com/kubernetes-incubator/external-storage/tree/master/nfs-client) is an automatic provisioner for Kubernetes that uses your *already configured* NFS server, automatically creating Persistent Volumes.
-
-## DEPRECATION NOTICE
-
-This chart is deprecated and no longer supported.
 
 ## TL;DR;
 
