@@ -1,4 +1,4 @@
 # Set to true for GPG signing
-sign: true
+sign: false
 # UID of the GPG key to use
-key: [ultimate] Adam Tetelman (Adam Tetelman - NVIDIA) <supertetelman@gmail.com>
+key: 7D8DDF62E564DD23
